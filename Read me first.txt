@@ -1,0 +1,2 @@
+Copy all file and in folder and then open that folder in power shell and type npm i 
+after install of all modules double click on .bat file and then boom your program run
